@@ -6,6 +6,7 @@ class mytask{
     private:
         int x;
     public:
+        int y;
     void SetX(int); 
     int GetX();
 };
